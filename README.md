@@ -1,6 +1,6 @@
-# 🕹️ Projeto HOD - SZPC
+# 🐲 Projeto House of the Dragon - Dragões Interativos
 
-Este projeto é uma página interativa inspirada em jogos clássicos estilo "House of the Dead", criada especialmente para uma brincadeira com o grupo da SZPC.
+Este projeto é uma página estática inspirada no universo da série *House of the Dragon*. Ele exibe informações de diferentes dragões da história, permitindo que o usuário visualize detalhes ao interagir com cada um.
 
 > 🔧 Desenvolvido com HTML, CSS e JavaScript puro, sem o uso de frameworks.
 
@@ -18,10 +18,9 @@ Este projeto foi criado com o objetivo de praticar e consolidar conhecimentos em
 
 ## ⚙️ Funcionalidades
 
-- Interface com elementos temáticos e interativos
-- Exibição de personagens personalizados
-- Animações simples e efeitos visuais
-- Navegação por cliques e eventos no DOM
+- Exibição de informações de diversos dragões
+- Interação para visualizar os detalhes de cada dragão ao clicar
+- Layout visual com o background representando o conteúdo de cada dragão
 
 ---
 
