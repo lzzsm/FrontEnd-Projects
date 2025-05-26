@@ -34,4 +34,5 @@ Este projeto foi criado com o objetivo de praticar e consolidar conhecimentos em
 
 # 🙋‍♂️ Autor
 Desenvolvido por lzzsm
+---
 Entre em contato: [zilomezm@gmail.com]
