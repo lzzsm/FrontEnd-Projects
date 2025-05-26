@@ -26,7 +26,7 @@ Cada projeto está em seu próprio **branch**. A branch principal (`main`) cont�
 ### 📌 Como visualizar os projetos
 
 1. Clique no menu suspenso de branchs (`main` no topo esquerdo do GitHub).
-2. Selecione a branch desejada, por exemplo: `projeto-todo-list`, `projeto-calculadora`, etc.
+2. Selecione a branch desejada, por exemplo: `projeto-hod-szpc`, `projeto-pokedevs`, etc.
 3. Cada branch contém os arquivos completos de um projeto, como:
 
 
